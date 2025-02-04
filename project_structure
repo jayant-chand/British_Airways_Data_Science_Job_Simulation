@@ -1,0 +1,12 @@
+British_Airways_Project/
+├── README.md
+├── requirements.txt
+├── data/
+│   └── BA_reviews.csv
+├── notebooks/
+│   └── British_Airways_Task1.ipynb
+├── src/
+│   ├── __init__.py
+│   ├── data_collection.py
+│   └── analysis.py
+└── .gitignore 
